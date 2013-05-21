@@ -1,0 +1,11 @@
+1: Validate/Clean the POST data
+2: Admin list 
+    A) Filter by user
+    B) Add thumnails
+    C) Search
+    D) Display key/value pairs
+3) Add response handling in Andriod code
+    {
+        'success': True/False,
+        'message': 'Some message from server',
+    }

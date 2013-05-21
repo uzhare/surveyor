@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.log
+*.pot
+*.sqlite3
+*.db
+static/*
